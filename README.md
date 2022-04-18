@@ -12,3 +12,11 @@ ServerArguments=-nolisten tcp -dpi 96
 escape
 :wq
 ```
+## To use KDialog in Firefox
+```
+sudo /etc/profile.d/mozilla-common.sh
+i
+export GTK_USE_PORTAL=1
+escape
+:wq
+```
