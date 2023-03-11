@@ -33,3 +33,6 @@ export GTK_USE_PORTAL=1
 escape
 :wq
 ```
+Or try:
+* Enter about:config in the URL Bar
+* Set widget.use-xdg-desktop-portal.file-picker=1
