@@ -13,10 +13,12 @@ $ cd qtwebengine_dictionaries
 $ sudo cp $HOME/hunspell_dictionaries/en-US-10-1.bdic .
 ```
 
-## Kate start with empty document
+## Start Kate with an empty document
 There is a checkbox on the welcome page at the bottom to turn it off.
+
 The setting is also to be found in: Settings --> Configure Kate --> Session
 and the setting is a check box named "Show welcome view for new windows"
+
 [Hat-tip](https://www.reddit.com/r/kde/comments/zy2alp/i_dislike_the_new_way_kate_opens_a_welcome_screen/)
 
 ## Clean Plasma Cache
