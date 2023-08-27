@@ -1,0 +1,6 @@
+$ neochat
+QQmlApplicationEngine failed to load component
+qrc:/main.qml:20:5: Type RoomList.Page unavailable
+qrc:/RoomList/Page.qml:87:20: Type ExploreComponent unavailable
+qrc:/RoomList/ExploreComponent.qml: Type org.kde.neochat/OsmLocationPlugin unavailable
+qrc:/OsmLocationPlugin.qml:7:1: module "QtLocation" is not installed
