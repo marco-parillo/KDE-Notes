@@ -44,3 +44,17 @@ escape
 Or try:
 * Enter about:config in the URL Bar
 * Set widget.use-xdg-desktop-portal.file-picker=1
+
+## Cursor icon changes in Firefox
+
+You may need to create the directories first before you:
+```
+sudo vim /usr/share/icons/default/index.theme
+i
+[Icon Theme]
+Inherits=Oxygen_Yellow
+```
+If you don't know your cursor theme name, they are listed in:
+```
+$ find /usr/share/icons ~/.local/share/icons ~/.icons -type d -name "cursors"
+```
