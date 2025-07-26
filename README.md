@@ -47,7 +47,7 @@ Change the value to 2.
 
 ## Firefox
 
-###To use KDialog in Firefox
+### To use KDialog in Firefox
 
 ```
 sudo /etc/profile.d/mozilla-common.sh
